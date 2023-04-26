@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanDevil23
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I specialize in Data Science.
+- 🌱 I’m currently learning JavaScript along with Node.js && React.js
+- 💞️ I’m looking to work on new projects and challenges. 
 - 📫 How to reach me : adhyasankalp23@gmail.com / sankalpadhya05@gmail.com
 
 <!---
