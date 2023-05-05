@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanDevil23
-- 👀 I specialize in Data Science.
+- 👀 I specialize in Data Science && Web Development.
 - 🌱 I’m currently learning JavaScript along with Node.js && React.js
 - 💞️ I’m looking to work on new projects and challenges. 
 - 📫 How to reach me : adhyasankalp23@gmail.com / sankalpadhya05@gmail.com
