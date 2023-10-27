@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalp Adhya</h1>
-<h3 align="center">Welcome to my landing page. I am a Web Developer and I am working on various technologies and frameworks like ReactJS, SpringBoot, Python, etc.</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
