@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
+- 🧁 looking out for projects to collab 🧁
+
 - 📫 You can reach me at **sankalpadhya05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
