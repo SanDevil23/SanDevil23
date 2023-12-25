@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sankalp Adhya</h1>
 <h3 align="center">Let's create code from new ideas</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS** and ***Spring Boot***
 
 - 🧁 looking out for projects to collab 🧁
 
