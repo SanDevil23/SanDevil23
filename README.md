@@ -7,7 +7,7 @@
 
 - 🧁 looking out for projects to collab 🧁
 
-- 🌲❄️ **It's going to be Christmas soon** Merry Christmas 🎁🎄
+- 🌲❄️ **Happy New Year** A lot of targets and goals are to be achieved this year 🎁🎄
 
 - 📫 You can reach me at **sankalpadhya05@gmail.com**
 
