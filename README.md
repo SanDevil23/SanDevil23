@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalp Adhya</h1>
 
-<h2 align = "center">Welcome 2024.... Keep the momentum up from the beginning </h2>
 <h3 align="center">Let's create code from new ideas</h3>
 
 - 🌱 I’m currently learning **NodeJS** and ***Spring Boot***
