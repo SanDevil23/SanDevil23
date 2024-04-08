@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sankalp Adhya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandevil23&label=Profile%20views&color=0e75b6&style=flat" alt="sandevil23" /> </p>
 
-- 🔭 I’m currently working on **WatchMOJO**
+- 🔭 I’m currently working on **SpringCloud & Spring MVC**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👨‍💻 All of my projects are available at [github/SanDevil23](github/SanDevil23)
 
-- 💬 Ask me about **react, tailwind, node,**
+- 💬 Ask me about **spring, tensorflow, react, **
 
-- 📫 How to reach me **sankalpadhya05@gmail.com**
+- 📫 How to reach me **https://twitter.com/wasted_Coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
