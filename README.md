@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalp Adhya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandevil23&label=Profile%20views&color=0e75b6&style=flat" alt="sandevil23" /> </p>
+<h2 align="left"> <img src="https://komarev.com/ghpvc/?username=sandevil23&label=Profile%20views&color=0e75b6&style=flat" alt="sandevil23" /> </h2>
 
 - 🔭 I’m currently working on **SpringCloud & Spring MVC**
 
