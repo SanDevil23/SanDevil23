@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sankalp Adhya</h1>
 <h2 align="left"> <img src="https://komarev.com/ghpvc/?username=sandevil23&label=Profile%20views&color=0e75b6&style=flat" alt="sandevil23" /> </h2>
 
-- 🔭 I’m currently working on **SpringCloud & Spring MVC**
+- 🔭 I’m currently working on **Deployment Strategies & Related Operations**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Kubernetees**
 
 - 👨‍💻 All of my projects are available at [github/SanDevil23](github/SanDevil23)
 
